@@ -1,0 +1,2 @@
+(1) For Figure2(A), we generated the subnetwork diagram by directly inputing breast cancer-related gene lists into the String database (https://string-db.org/).
+(2) For Figure2(B-F), we first extracted the edges of related subnetworks by directly inputing Pathways(hsa05226,hsa04218,hsa05166,hsa05224,hsa05218)-related gene lists into the String database (https://string-db.org/). And then we generated the final subnetwork diagrams by inputing the edges of the extracted subnetworks and node labels (disease genes or not) into the Gephi software.   
